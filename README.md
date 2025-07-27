@@ -208,12 +208,5 @@ The system is implemented as a modular Python application:
 4. **output_generator.py**: Generates the final JSON output
 5. **main.py**: Orchestrates the entire process
 
-## Troubleshooting
 
-### Docker Build Issues
-If you encounter dependency errors during Docker build, ensure the Dockerfile uses `python:3.10-slim` instead of `python:3.9-slim`.
-
-### Path Issues on Windows
-Use forward slashes or escape backslashes in paths when running Docker commands on Windows.
-```
         
