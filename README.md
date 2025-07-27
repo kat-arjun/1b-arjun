@@ -1,4 +1,4 @@
-# Document Intelligence System
+# Challenge 1B - Team ARJUN
 
 This system extracts and prioritizes the most relevant sections from a collection of documents based on a specific persona and their job-to-be-done.
 
